@@ -1,0 +1,22 @@
+body {
+background-color: pink;
+}
+p {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 20px;
+    color: purple;
+    
+}
+#candy {
+    font-family: verdana;
+    font-style: oblique;
+}
+#chocolate {
+    font-family: fantasy;
+    font-size: 26px;
+}
+#drink {
+    font-family: monospace;
+    font-size: 27px;
+}
