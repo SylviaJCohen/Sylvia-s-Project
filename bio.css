@@ -1,0 +1,21 @@
+body {
+background-color: black;
+}
+p {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 20px;
+    color: red;
+}
+#mark {
+    font-family: monospace;
+    font-style: oblique;
+}
+#baba {
+    font-family: cursive;
+    font-size: 26px;
+}
+#danny {
+    font-family: fantasy;
+    font-size: 27px;
+}

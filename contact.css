@@ -1,0 +1,22 @@
+body {
+background-color: purple;
+}
+p {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 20px;
+    color: silver;
+    
+}
+#pink {
+    font-family: fantasy;
+    font-size: 25px
+}
+#yellow {
+    font-family: verdana;
+    font-size: 26px;
+}
+#purple {
+    font-family: monospace;
+    font-size: 27px;
+}

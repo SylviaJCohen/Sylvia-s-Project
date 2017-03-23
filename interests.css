@@ -1,0 +1,22 @@
+body {
+background-color: gray;
+}
+p {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 20px;
+    color: blue;
+    
+}
+#paper {
+    font-family: cursive;
+    font-style: oblique;
+}
+#love {
+    font-family: sans-serif;
+    font-size: 26px;
+}
+#cup {
+    font-family: monospace;
+    font-size: 27px;
+}
